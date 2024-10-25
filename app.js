@@ -1,1 +1,1 @@
-console.log ( Math.floor(Math.random() * 5+95 ))
+console.log ( Math.floor(Math.random() * 6+95 ))
